@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Siphosakhe Mathews**, a cybersecurity and IT enthusiast who loves learning about offensive security through hands-on platforms like TryHackMe.
+I'm **Siphosakhe Mathews Msimango**, a cybersecurity and IT enthusiast who loves learning about offensive security through hands-on platforms like TryHackMe.
 
 ![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square)  
 ![TryHackMe Badge](./tryhackme-badge.png)
