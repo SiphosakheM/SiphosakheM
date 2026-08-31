@@ -1,17 +1,14 @@
 ## Hi there 👋
 
-<!--
-**SiphosakheM/SiphosakheM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Siphosakhe Mathews**, a cybersecurity and IT enthusiast who loves learning about offensive security through hands-on platforms like TryHackMe.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square)  
 ![TryHackMe Badge](./tryhackme-badge.png)
+
+- 🔭 **Currently working on:** improving my penetration testing and security analysis skills
+- 🌱 **Currently learning:** network security, active directory, and web exploitation
+- 👯 **Looking to collaborate on:** security-focused projects and CTFs
+- 💬 **Ask me about:** cybersecurity, Linux, and TryHackMe
+- 📫 **How to reach me:** open a GitHub issue or connect via my profile
+- 😄 **Pronouns:** he/him
+- ⚡ **Fun fact:** I learn best by breaking things (in a sandbox, of course!)
