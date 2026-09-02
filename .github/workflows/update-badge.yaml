@@ -1,27 +1,34 @@
-name: TryHackMe Update Badge
+name: Update Profile Badges
+
+# Allow the workflow to push changes
+permissions:
+  contents: write
 
 on:
   schedule:
-    # Make it run every 24 hour
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual triggering
+
 jobs:
-  tryhackme-badge-update:
-    name: Update this repo's tryhackme badge with the latest tryhackme image badge
+  update-badges:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: SiphosakheM/tryhackme-badge-workflow@main
-        with:
-          # Replace with your tryhackme username
-          username: "SiphosakheMathews"
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
-                                                  # and will pull your github token automatically
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download Badges
+        run: |
+          mkdir -p assets
+          # Download TryHackMe Badge
+          curl -o ./assets/tryhackme-badge.png "https://tryhackme-badges.s3.amazonaws.com/siphosakhemathews.png"
           
-      - name: Commit and push badge
+          # Download Hack The Box Badge
+          curl -o ./assets/htb-badge.png "https://www.hackthebox.eu/badge/image/SiphosakheM"
+          
+      - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add ./assets/tryhackme-badge.png
-          git commit -m "Updated THM profile badge" || echo "No changes to commit"
+          git add ./assets/tryhackme-badge.png ./assets/htb-badge.png
+          git commit -m "Automated badge update" || echo "No changes to commit"
           git push
