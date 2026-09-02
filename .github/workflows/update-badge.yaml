@@ -20,7 +20,7 @@ jobs:
         run: |
           mkdir -p assets
           # Downloads the image directly from TryHackMe's public bucket
-          curl -o ./assets/tryhackme-badge.png "https://tryhackme-badges.s3.amazonaws.com/SiphosakheMathews.png"
+          curl -o ./assets/tryhackme-badge.png "https://tryhackme-badges.s3.amazonaws.com/siphosakhemathews.png"
           
       - name: Commit and push badge
         run: |
