@@ -2,7 +2,7 @@
 
 I'm **Siphosakhe Mathews Msimango**, a cybersecurity and IT enthusiast who loves learning about offensive security through hands-on platforms like TryHackMe.
 
-[![TryHackMe Badge](assets/thm_propic.png)](https://tryhackme.com/p/SiphosakheMathews)
+![tryhackme stats](https://raw.githubusercontent.com/SiphosakheMathews/SiphosakheMathews/master/assets/thm_propic.png)
 
 - 🔭 **Currently working on:** improving my penetration testing and security analysis skills
 - 🌱 **Currently learning:** network security, active directory, and web exploitation
