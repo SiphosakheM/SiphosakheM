@@ -53,18 +53,34 @@ I'm a passionate **software developer** and **security researcher** who loves bu
 
 ## 📊 Skill Levels
 
-```text
-Python              ████████████████████░░░   75%
-JavaScript          █████████████████░░░░░░   65%
-Java                ██████████████░░░░░░░░░   55%
-HTML                ██████████████████████░   85%
-CSS                 ██████████████████░░░░░   70%
-SQL                 ███████████████████░░░░   70%
-Django              █████████████████░░░░░░   65%
-Spring Boot         ██████████████░░░░░░░░░   55%
-MySQL               ██████████████████░░░░░   70%
-Linux               ███████████████████░░░░   75%
-```
+**Languages**
+
+<p align="center">
+  <img src="https://geps.dev/progress/75?label=Python%2075%25" alt="Python 75%" />
+  <img src="https://geps.dev/progress/65?label=JavaScript%2065%25" alt="JavaScript 65%" />
+  <img src="https://geps.dev/progress/55?label=Java%2055%25" alt="Java 55%" />
+  <img src="https://geps.dev/progress/85?label=HTML%2085%25" alt="HTML 85%" />
+  <img src="https://geps.dev/progress/70?label=CSS%2070%25" alt="CSS 70%" />
+  <img src="https://geps.dev/progress/70?label=SQL%2070%25" alt="SQL 70%" />
+</p>
+
+**Frameworks & Databases**
+
+<p align="center">
+  <img src="https://geps.dev/progress/65?label=Django%2065%25" alt="Django 65%" />
+  <img src="https://geps.dev/progress/55?label=Spring%20Boot%2055%25" alt="Spring Boot 55%" />
+  <img src="https://geps.dev/progress/70?label=MySQL%2070%25" alt="MySQL 70%" />
+  <img src="https://geps.dev/progress/75?label=Linux%2075%25" alt="Linux 75%" />
+</p>
+
+**Cybersecurity**
+
+<p align="center">
+  <img src="https://geps.dev/progress/65?label=Network%20Security%2065%25" alt="Network Security 65%" />
+  <img src="https://geps.dev/progress/70?label=Web%20Exploitation%2070%25" alt="Web Exploitation 70%" />
+  <img src="https://geps.dev/progress/45?label=Active%20Directory%2045%25" alt="Active Directory 45%" />
+  <img src="https://geps.dev/progress/80?label=TryHackMe%2080%25" alt="TryHackMe 80%" />
+</p>
 
 ---
 
