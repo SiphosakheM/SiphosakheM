@@ -4,6 +4,15 @@ I'm **Siphosakhe Mathews Msimango**, a cybersecurity and IT enthusiast who loves
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-SiphosakheMathews-1f8c2f?logo=tryhackme&logoColor=white&style=flat-square)](https://tryhackme.com/p/SiphosakheMathews)
 
+### 🏅 TryHackMe Badges
+
+- [3 Day Streak](https://tryhackme.com/SiphosakheMathews/badges/3-day-streak)
+- [7 Day Streak](https://tryhackme.com/SiphosakheMathews/badges/7-day-streak)
+- [Network Fundamentals](https://tryhackme.com/SiphosakheMathews/badges/network-fundamentals)
+- [Web Fundamentals](https://tryhackme.com/SiphosakheMathews/badges/web-fund)
+- [World Wide Web](https://tryhackme.com/SiphosakheMathews/badges/world-wide-web)
+- [TerminalED](https://tryhackme.com/SiphosakheMathews/badges/terminaled)
+
 - 🔭 **Currently working on:** improving my penetration testing and security analysis skills
 - 🌱 **Currently learning:** network security, active directory, and web exploitation
 - 👯 **Looking to collaborate on:** security-focused projects and CTFs
